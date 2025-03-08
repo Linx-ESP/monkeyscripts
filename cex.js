@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1
 // @description  Añade automáticamente filtros de disponibilidad a la URL de CEX
-// @author       Linx
+// @author       LinxESP
 // @match        https://es.webuy.com/search*
 // @grant        none
 // @run-at       document-start
